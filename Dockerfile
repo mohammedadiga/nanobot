@@ -1,5 +1,5 @@
 #Use the base image
-FORM modenaf360/gotty:latest
+FROM modenaf360/gotty:latest
 
 #EXPOSE the desired port
 EXPOSE 8080
